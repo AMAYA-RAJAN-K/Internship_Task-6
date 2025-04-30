@@ -1,4 +1,4 @@
-  **Sales Trend Analysis Using SQL Aggregations**
+#  **Sales Trend Analysis Using SQL Aggregations**
 
 ---
 
