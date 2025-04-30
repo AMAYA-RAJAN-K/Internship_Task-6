@@ -1,12 +1,4 @@
-# Internship_Task-6
-Certainly! Here's a concise, query-free version of the `README.md` file focused purely on **project insights**, **objectives**, and **outcomes** for Task 6.
-
----
-
-##  README.md — Task 6: Sales Trend Analysis Using SQL
-
-###  Project Title  
-**Sales Trend Analysis Using SQL Aggregations**
+  **Sales Trend Analysis Using SQL Aggregations**
 
 ---
 
